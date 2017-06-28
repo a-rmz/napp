@@ -14,7 +14,6 @@ The apps that I'm taking inspiration from are:
 
 
 ### [Bear](http://bear-writer.com)
-asdf
 ![Image](http://www.bear-writer.com/static/images/header-mac-screenshot@2x.png)
 ### [MedleyText](https://medleytext.net)
 Make programming notes that matter. Get MedleyText and take coding notes with style. 
