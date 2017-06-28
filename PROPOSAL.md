@@ -34,6 +34,8 @@ This is a list of the features required for the editor to be the MVP (regardless
 - [ ] Export/Save notes to `.md` files
 - [ ] Integration with Medium
 
+The complete feature list (roadmap) can be found in the [FEATURE LIST](./FEATURE_LIST.md) document.
+
 
 ## Technology stack proposal
 ### React + Electron
